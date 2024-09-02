@@ -1,3 +1,6 @@
+# Authors: Hiuri Noronha & Thiago Belina
+# Course: IA376-N (2024-2 sem)
+
 import os
 clear = lambda: os.system('cls')
 clear() # for vscode only
